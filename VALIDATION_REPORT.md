@@ -1,0 +1,88 @@
+# Validation Report - home-fire-theft-prevention
+
+Generated: 2026-06-04T11:36:39.410549
+
+## Passed
+
+- ✓ Required file exists: privacy.html
+- ✓ Required file exists: cookie-policy.html
+- ✓ Required file exists: terms.html
+- ✓ Required file exists: ad-policy.html
+- ✓ Required file exists: contact.html
+- ✓ Required file exists: about.html
+- ✓ Required file exists: dmca.html
+- ✓ Required file exists: accessibility.html
+- ✓ Suggested file exists: data-request.html
+- ✓ Suggested file exists: do-not-sell.html
+- ✓ Suggested file exists: third-party-disclosure.html
+- ✓ Suggested file exists: disclaimer.html
+- ✓ Suggested file exists: external-link-policy.html
+- ✓ Suggested file exists: content-policy.html
+- ✓ Suggested file exists: security-policy.html
+- ✓ Suggested file exists: children-privacy.html
+- ✓ Suggested file exists: refund-policy.html
+- ✓ Suggested file exists: faq.html
+- ✓ Suggested file exists: press-kit.html
+- ✓ Suggested file exists: feedback.html
+- ✓ Suggested file exists: code-of-conduct.html
+- ✓ Article word count OK: The Ultimate Guide to Beginner Home Fire Theft Prevention
+- ✓ Article word count OK: Beginner Home Fire Theft Prevention: Everything You Need to Know
+- ✓ Article word count OK: Understanding Beginner Home Fire Theft Prevention
+- ✓ Article word count OK: Beginner Home Fire Theft Prevention Tips and Best Practices
+- ✓ Article word count OK: The History of Beginner Home Fire Theft Prevention
+- ✓ Article word count OK: Beginner Home Fire Theft Prevention in 2026: Current Trends
+- ✓ Article word count OK: Future of Beginner Home Fire Theft Prevention
+- ✓ Article word count OK: Common Mistakes in Beginner Home Fire Theft Prevention
+- ✓ Article word count OK: Beginner Home Fire Theft Prevention for Beginners
+- ✓ Article word count OK: Advanced Beginner Home Fire Theft Prevention Techniques
+- ✓ Article word count OK: The Ultimate Guide to Advanced Home Fire Theft Prevention
+- ✓ Article word count OK: Advanced Home Fire Theft Prevention: Everything You Need to Know
+- ✓ Article word count OK: Understanding Advanced Home Fire Theft Prevention
+- ✓ Article word count OK: Advanced Home Fire Theft Prevention Tips and Best Practices
+- ✓ Article word count OK: The History of Advanced Home Fire Theft Prevention
+- ✓ Article word count OK: Advanced Home Fire Theft Prevention in 2026: Current Trends
+- ✓ Article word count OK: Future of Advanced Home Fire Theft Prevention
+- ✓ Article word count OK: Common Mistakes in Advanced Home Fire Theft Prevention
+- ✓ Article word count OK: Advanced Home Fire Theft Prevention for Beginners
+- ✓ Article word count OK: Advanced Advanced Home Fire Theft Prevention Techniques
+- ✓ Article word count OK: The Ultimate Guide to Home Fire Theft Prevention Tips
+- ✓ Article word count OK: Home Fire Theft Prevention Tips: Everything You Need to Know
+- ✓ Article word count OK: Understanding Home Fire Theft Prevention Tips
+- ✓ Article word count OK: Home Fire Theft Prevention Tips Tips and Best Practices
+- ✓ Article word count OK: The History of Home Fire Theft Prevention Tips
+- ✓ Article word count OK: Home Fire Theft Prevention Tips in 2026: Current Trends
+- ✓ Article word count OK: Future of Home Fire Theft Prevention Tips
+- ✓ Article word count OK: Common Mistakes in Home Fire Theft Prevention Tips
+- ✓ Article word count OK: Home Fire Theft Prevention Tips for Beginners
+- ✓ Article word count OK: Advanced Home Fire Theft Prevention Tips Techniques
+- ✓ Article word count OK: The Ultimate Guide to Home Fire Theft Prevention History
+- ✓ Article word count OK: Home Fire Theft Prevention History: Everything You Need to Know
+- ✓ Article word count OK: Understanding Home Fire Theft Prevention History
+- ✓ Article word count OK: Home Fire Theft Prevention History Tips and Best Practices
+- ✓ Article word count OK: The History of Home Fire Theft Prevention History
+- ✓ Article word count OK: Home Fire Theft Prevention History in 2026: Current Trends
+- ✓ Article word count OK: Future of Home Fire Theft Prevention History
+- ✓ Article word count OK: Common Mistakes in Home Fire Theft Prevention History
+- ✓ Article word count OK: Home Fire Theft Prevention History for Beginners
+- ✓ Article word count OK: Advanced Home Fire Theft Prevention History Techniques
+- ✓ Article word count OK: The Ultimate Guide to Trending Home Fire Theft Prevention
+- ✓ Article word count OK: Trending Home Fire Theft Prevention: Everything You Need to Know
+- ✓ Article word count OK: Understanding Trending Home Fire Theft Prevention
+- ✓ Article word count OK: Trending Home Fire Theft Prevention Tips and Best Practices
+- ✓ Article word count OK: The History of Trending Home Fire Theft Prevention
+- ✓ Article word count OK: Trending Home Fire Theft Prevention in 2026: Current Trends
+- ✓ Article word count OK: Future of Trending Home Fire Theft Prevention
+- ✓ Article word count OK: Common Mistakes in Trending Home Fire Theft Prevention
+- ✓ Article word count OK: Trending Home Fire Theft Prevention for Beginners
+- ✓ Article word count OK: Advanced Trending Home Fire Theft Prevention Techniques
+- ✓ Article word count OK: The Ultimate Guide to Home Fire Theft Prevention Tutorials
+- ✓ Article word count OK: Home Fire Theft Prevention Tutorials: Everything You Need to Know
+- ✓ Article word count OK: Understanding Home Fire Theft Prevention Tutorials
+- ✓ Article word count OK: Home Fire Theft Prevention Tutorials Tips and Best Practices
+- ✓ Article word count OK: The History of Home Fire Theft Prevention Tutorials
+- ✓ Article word count OK: Home Fire Theft Prevention Tutorials in 2026: Current Trends
+- ✓ Article word count OK: Future of Home Fire Theft Prevention Tutorials
+- ✓ Article word count OK: Common Mistakes in Home Fire Theft Prevention Tutorials
+- ✓ Article word count OK: Home Fire Theft Prevention Tutorials for Beginners
+- ✓ Article word count OK: Advanced Home Fire Theft Prevention Tutorials Techniques
+- ✓ Ad configuration validated
